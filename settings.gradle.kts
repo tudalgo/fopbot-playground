@@ -1,1 +1,1 @@
-rootProject.name = "FOPBotPlayground"
+rootProject.name = "fopbot-playground"
