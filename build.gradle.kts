@@ -6,12 +6,6 @@ plugins {
     application
 }
 
-// repositories define the places from which we want to download libraries
-repositories {
-    mavenCentral()
-    maven("https://s01.oss.sonatype.org/content/repositories/snapshots")
-}
-
 // dependencies define which libraries we want to download and include in our project
 dependencies {
     implementation("org.sourcegrade:fopbot:0.1.0-SNAPSHOT")
