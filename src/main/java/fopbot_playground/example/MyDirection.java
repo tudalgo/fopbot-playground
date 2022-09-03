@@ -1,8 +1,8 @@
 package fopbot_playground.example;
 
 public enum MyDirection {
-  UP,
-  DOWN,
-  LEFT,
-  RIGHT,
+    UP,
+    DOWN,
+    LEFT,
+    RIGHT,
 }
