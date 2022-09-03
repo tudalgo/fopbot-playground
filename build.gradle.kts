@@ -7,8 +7,9 @@ plugins {
 }
 
 // dependencies define which libraries we want to download and include in our project
+// the artifact co-ordinates are defined in ./gradle/libs.versions.toml
 dependencies {
-    implementation("org.sourcegrade:fopbot:0.1.0-SNAPSHOT")
+    implementation(libs.fopbot)
 }
 
 // configure the application plugin, tell gradle where to look for our main method
