@@ -1,2 +1,2 @@
 [libraries]
-fopbot = "org.sourcegrade:fopbot:0.3.0"
+fopbot = "org.tudalgo:fopbot:0.4.1"
